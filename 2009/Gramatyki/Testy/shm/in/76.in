@@ -1,0 +1,1021 @@
+10
+50 50
+H H E
+F F H
+B D E
+A A C
+A H E
+B C B
+H B E
+F H E
+F A D
+E B H
+D F B
+A F B
+D B G
+E D H
+D H H
+F B H
+G F A
+G B H
+G E E
+H E B
+E F F
+B G B
+C E B
+F D F
+F D B
+G C E
+D D C
+F C A
+B H G
+F A E
+D G D
+B H A
+G A B
+B F E
+E G B
+H D G
+C F E
+E F A
+D E F
+E A G
+C E E
+B E H
+B F A
+H B G
+F D A
+A B E
+F G D
+D G F
+H D C
+H B F
+F s
+D c
+H n
+F a
+G y
+G k
+D p
+C z
+D t
+D r
+A m
+H s
+D r
+C g
+D t
+C g
+F y
+F h
+C k
+C o
+G q
+F g
+C k
+B w
+C y
+G h
+G s
+G m
+H h
+B s
+D q
+D z
+B d
+F h
+D f
+D c
+A z
+D q
+H v
+H n
+B l
+F p
+C c
+A m
+E b
+D u
+F b
+A y
+A o
+B z
+ssgk
+50 50
+A E F
+E E H
+G G G
+F D D
+G G F
+A D G
+F C B
+E C A
+F A A
+C F E
+G C B
+C B B
+A H F
+D C D
+C H B
+F F H
+H G H
+C H E
+C H A
+H D G
+B E A
+C F G
+B D B
+D G B
+C H F
+H G H
+F F E
+E C D
+E C F
+H A H
+E A G
+B H H
+E A B
+D B C
+C G F
+B F H
+G B G
+A F E
+D C A
+D C E
+E A E
+D A A
+D B B
+E E G
+D B B
+A B D
+C H E
+H D D
+B E D
+D A G
+E d
+G u
+E e
+G b
+E c
+B x
+F v
+D b
+E d
+F x
+G p
+H a
+D h
+G p
+D o
+E l
+G a
+E t
+D n
+H d
+G k
+H p
+E s
+E y
+H j
+D w
+B f
+C a
+F o
+G v
+C i
+B d
+E n
+C c
+A m
+G a
+D n
+C v
+B p
+H e
+H e
+F a
+F q
+E z
+H a
+D r
+F e
+C n
+C a
+B m
+ostu
+50 50
+C G C
+A H B
+H H A
+H E C
+E D H
+H C C
+E E F
+G H C
+A E E
+A D G
+G F G
+F G B
+E G B
+A A B
+D A A
+F C E
+C H D
+B B A
+F F G
+A D G
+F C G
+D D E
+B E B
+B F F
+B G F
+D C A
+D G G
+E G A
+C E B
+F D G
+H B G
+C G D
+H H G
+E F H
+C C A
+F D C
+D B F
+B B A
+F C F
+A A H
+C G E
+A B E
+H H G
+E G F
+H G C
+C A E
+D G B
+E G E
+G D F
+G C D
+H k
+F g
+F z
+B z
+F e
+C k
+B c
+A o
+B m
+H e
+F w
+F h
+B w
+H p
+D q
+H y
+B t
+F s
+C u
+C s
+G p
+B n
+F p
+E p
+E t
+F f
+H p
+D v
+D d
+E a
+A z
+B r
+A z
+A m
+G k
+C l
+H v
+D r
+F x
+C s
+D r
+C y
+B g
+C m
+A p
+E v
+B a
+B w
+E v
+F f
+xerd
+50 50
+B D D
+B A H
+E B B
+G D A
+A B B
+G B G
+H B C
+B C A
+G E E
+G A H
+B D F
+B C H
+C D A
+F D E
+G E C
+H D C
+A F A
+D F H
+H C B
+H B H
+C G F
+E F G
+H F H
+C B B
+G D H
+B F F
+H F F
+E F F
+G G A
+H F H
+G D G
+D B A
+B B E
+C C D
+G B F
+D H E
+B E F
+G B E
+E C B
+B B H
+E A H
+G A F
+H F A
+B A B
+D G E
+C C C
+G H F
+H E G
+B F E
+D E A
+D g
+G k
+D v
+B e
+D e
+B d
+G h
+A s
+B v
+G a
+A v
+E o
+B z
+B r
+G y
+D n
+H s
+C l
+G j
+D k
+F e
+H o
+D a
+E p
+B g
+E t
+H f
+A w
+C j
+B k
+F a
+C h
+H x
+H e
+H f
+H q
+G a
+A u
+F k
+F m
+H v
+H f
+C a
+G v
+B b
+F n
+F z
+D y
+D j
+B q
+qqcz
+50 50
+H H C
+E F D
+E D A
+C D C
+B D E
+B E B
+G D H
+C H G
+D B C
+E G E
+E A D
+B E D
+E E H
+H G D
+C D G
+H E H
+C D A
+B C G
+D E A
+B A D
+B E A
+F H E
+C G F
+A C B
+D A B
+A H D
+D H C
+F F F
+B F G
+C A B
+G A C
+F E E
+D B B
+F D D
+F E E
+E H H
+D C H
+A H D
+F F A
+G H C
+G B E
+D F C
+E H H
+H C C
+D G A
+D G F
+F F C
+E A F
+B B G
+A D D
+H s
+A n
+H w
+A r
+H o
+B t
+C b
+C h
+F g
+C h
+C p
+D m
+F e
+A t
+H i
+C j
+C t
+H j
+F q
+A b
+C z
+E m
+B q
+E o
+E a
+B t
+G v
+F k
+B f
+E p
+F p
+H b
+B o
+C c
+G r
+E x
+E v
+F g
+G k
+D h
+A x
+B i
+C n
+B a
+D k
+E l
+F n
+A j
+D v
+F d
+rhbe
+50 50
+H B B
+A A G
+A C B
+G D G
+A B A
+G E E
+D F A
+B F E
+H A H
+A F B
+C G D
+C E C
+E F C
+A E D
+B E B
+G A B
+D B H
+A F C
+A F E
+F G D
+D B D
+H D F
+F F H
+B A E
+F C E
+G D F
+H D D
+E F G
+B B H
+H E H
+A A F
+D F A
+B F A
+B B F
+D F G
+H C D
+C G B
+H E A
+B D F
+F D G
+F A G
+D A G
+A A C
+B F D
+G D E
+A H A
+G A H
+D B B
+G G A
+B E B
+C m
+E i
+C m
+D p
+H v
+A t
+C x
+G r
+C q
+B r
+F z
+E l
+D l
+H q
+G j
+D g
+C r
+C l
+H a
+G m
+D c
+H a
+C b
+A v
+F q
+H i
+E o
+D z
+F k
+D l
+C v
+F k
+H q
+A r
+E x
+F k
+F k
+E y
+D y
+E l
+G e
+C m
+H l
+B r
+H d
+A a
+D a
+G f
+E e
+B f
+qejh
+50 50
+E D D
+A G D
+G G H
+A B C
+B G B
+G G G
+B A G
+E G E
+F F A
+D D B
+H H A
+F C E
+E B F
+F D D
+D F E
+B D F
+B B D
+A F F
+F G B
+B H G
+A H B
+C E A
+D B G
+G E C
+D A H
+G G C
+A B E
+F G F
+D H F
+C F D
+C H E
+G H E
+H F G
+D H B
+E G H
+C B D
+D F B
+C C B
+B A H
+H D C
+G H F
+F D H
+D B F
+C C E
+B B H
+C E D
+H G F
+B H B
+B G D
+E B E
+G k
+B p
+G p
+C c
+C k
+B e
+F q
+F r
+H f
+G s
+G k
+F k
+C l
+B k
+E p
+C o
+B e
+H n
+D e
+H r
+H y
+B z
+E w
+G s
+G m
+B a
+E b
+F o
+B a
+F v
+E n
+A q
+E n
+G a
+B c
+E f
+G y
+G p
+E t
+G e
+A h
+A s
+F q
+D c
+D x
+E n
+A n
+G b
+F n
+D n
+jfcz
+50 50
+F F A
+B B C
+C E A
+G E H
+B B E
+C F D
+C F H
+H D E
+C H B
+C A A
+H A H
+A D F
+F D G
+B D A
+D H H
+A C A
+F C C
+A G F
+H A E
+H A G
+A H A
+D E H
+G D A
+B D F
+B C G
+D D B
+F F B
+E C G
+E G G
+E F F
+D F F
+A F F
+D F A
+G C G
+B A A
+E C B
+B D E
+E C C
+C A G
+H G C
+F D G
+C A B
+H A B
+B G E
+B G D
+D H E
+H E A
+B G B
+B E F
+H G A
+E c
+E e
+C r
+H o
+F d
+B r
+G e
+A y
+H l
+C h
+C p
+B o
+B z
+F p
+D h
+B o
+H k
+E y
+E p
+E f
+H y
+A b
+E f
+A o
+D p
+G e
+G t
+B m
+E j
+B d
+D p
+G l
+A j
+D f
+G o
+F w
+E m
+D m
+F r
+E z
+F y
+H y
+C o
+E l
+H z
+G c
+A t
+E w
+A q
+E f
+vsbv
+50 50
+H H D
+C E E
+H F B
+D E E
+H F G
+F E F
+F G E
+F C B
+B B B
+C A H
+B E D
+G A C
+D B E
+A F E
+F E H
+B B H
+H F E
+B G B
+C H G
+D H H
+H C B
+H F D
+B B B
+G F E
+C F E
+E E B
+B A C
+A B B
+H H C
+G G F
+B H A
+G C H
+H D G
+F A H
+C E G
+G G A
+G A E
+H C G
+G E G
+E B F
+D B E
+G A F
+B H D
+B G C
+G E H
+E F B
+E B H
+G H F
+D F E
+E D C
+H j
+C a
+G d
+H l
+B p
+E r
+B b
+B e
+F t
+C z
+B y
+G z
+E j
+D l
+H t
+F s
+F d
+C f
+H n
+B r
+C u
+D z
+G r
+G v
+B c
+C n
+H f
+D s
+F f
+C u
+F n
+C h
+G p
+H v
+F y
+F a
+G i
+D z
+F j
+H b
+B p
+C l
+D g
+E w
+D t
+E e
+F u
+D a
+C c
+A q
+scfq
+50 50
+B G B
+C E F
+D D E
+E F G
+A C B
+G F B
+D F F
+G B D
+G D F
+D G E
+C H D
+G E E
+B B H
+G H C
+A B G
+F C G
+C A E
+D D H
+H B F
+F F D
+F A H
+B F B
+C E H
+C G A
+D F G
+F D G
+F A D
+B H F
+C F B
+H A A
+A H F
+F A C
+B H E
+H H G
+E F A
+A D D
+A G B
+H E G
+E F H
+F F B
+E C B
+F F B
+E B G
+E H H
+B A G
+F D D
+D E D
+H D D
+E C C
+B E H
+F v
+A e
+B l
+E i
+C v
+B f
+B v
+H p
+F u
+H v
+A y
+E o
+F m
+E s
+D g
+A w
+B l
+G u
+G j
+E q
+F x
+G v
+H l
+D z
+C e
+G t
+F v
+B d
+B u
+G z
+D q
+E u
+G e
+H o
+E e
+E m
+B w
+A g
+A i
+F p
+F n
+E c
+G e
+E z
+D c
+E t
+A j
+C o
+D m
+D r
+ryny
