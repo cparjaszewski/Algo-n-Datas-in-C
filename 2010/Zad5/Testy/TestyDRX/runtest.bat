@@ -1,0 +1,10 @@
+Zad5.exe < test1.in > _test1.out
+Zad5.exe < test2.in > _test2.out
+Zad5.exe < test3.in > _test3.out
+Zad5.exe < test4.in > _test4.out
+Zad5.exe < test5.in > _test5.out
+Zad5.exe < test6.in > _test6.out
+Zad5.exe < test7.in > _test7.out
+Zad5.exe < test8.in > _test8.out
+Zad5.exe < test9.in > _test9.out
+Zad5.exe < test10.in > _test10.out
