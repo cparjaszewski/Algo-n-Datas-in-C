@@ -1,0 +1,74 @@
+DANE:
+
+
+
+Polana (Int,Int) // w i k --> wiersze, kolumny 
+Startuj - > (0, Int) // 0-wy wiersz i jakaœ kolumna
+
+Wykonaj ruch -> (PunktyPrzed, Ruch) -> PunktyPo
+Ruch -> (Pozycja, PoprzedniRuch) -> [Mo¿liwyRuch]
+SkokPierwszy -> (+1,+2),(-1,+2)]
+SkokJakiœ -> czyOstatniBy³oDoGóry? SkokPierwszy : SkokPierwszy ++ SkokDoGóry
+SkokDoGóry -> (czyOstatniBy³oDoGóry = True) [ (-2,-1) (+2,-1)]
+
+
+
+WEJŒCIE:
+w,  k // 3 <= w,k <= 3000
+[w,k] of Integer 
+
+WYJŒCIE:
+Maksymalna liczba stokrotek
+
+
+
+
+
+
+PRZYK£ADY/TESTY:
+Przyk³ad A
+
+	Wejscie:
+		4 4
+		1111
+		1011
+		0201
+		0111
+	Wyjscie:
+		70
+
+Przyk³ad B
+	Wejscie:
+		3 3
+		000
+		000
+		010
+	Wyjscie:
+		8
+
+Przyk³ad C
+	Wejscie:
+		4 6
+		001100
+		011110
+		011110
+		001100
+	Wyjscie:
+		28
+		
+		
+		
+0. Zadeklaruj u¿ycie tablicy 3000x3000 short (9 MB)
+1. Wczytaj pierwsz¹ linijkê (w i k)
+2. Wczytaj w wierszy. Po wczytaniu m-tego wiersza do istniej¹cej ju¿ 
+tablicy wpisz k wartoœci.
+3. Kolejne ruchy to ci¹gi {ABCD}*, gdzie A i B - ruchy o dwa w dó³
+C i D - ruchy o jeden go góry.
+Nie mo¿e byæ podci¹gu CC, CD, DC i DD.
+Zaczynamy na wysokoœci w. W ka¿dym kolejnym ruchu mo¿emy
+spaœæ o 2 dwa pola w dó³, albo wznieœæ siê o jedno pole do góry.
+W perspektywie dwóch ruchów z rzêdu albo spadniemy o jedno pole w dó³
+albo o cztery (w pierwszym przypadku raz poszliœmy do góry, ale potem
+musieliœmy ju¿ pójœæ na dó³, albo dwa razy poszliœmy na dó³)
+W perspektywie 3 ruchów mogliœmy zostaæ na tej samej wysokoœci,
+spaœæ o 3 miejsca w dó³ albo spaœæ o 6 miejsc w dó³.

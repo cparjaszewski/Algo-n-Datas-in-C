@@ -1,0 +1,33 @@
+AA
+VV
+YY
+GG
+
+
+AAAABAAAABAAAAABAAAABAAAAABAAAAABAAAAAB
+XXVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYMM
+GGGGGGGGGGGGJJJJJJJGGGGGGGGGGGGGGGGGGGG
+
+
+
+
+
+1. Sprawdziæ wszystkie miejsca w pierwszym wierszu, gdzie wystêpowa³ pierwszy wiersz wzorca
+2. W analizie drugiego wiersza :
+	a) Je¿eli w poprzednim kroku znaleziono wyst¹pienia wzorca, to sprawdziæ miejsca startu czy nie ma w nich drugiej linijki 
+	b) ZnaleŸæ wszystkie miejsce, gdzie wystêpowuje pierwszy wiersz z wzorca
+	
+3. W analizie n-tego wiersza:
+	a) Przygotowaæ informacje, które miejsca bêdziemy sprawdzaæ pod k¹tem którego wierwsza z wzorca
+	b) ZnaleŸæ wszystkie miejsca, gdzie wystêpowa³ pierwszy wiersz z wzorca
+	
+	
+PIERWSZE WNIOSKI:
+Mo¿e wczytaæ jeden raz najpierw te miejsca, gdzie wystêpuje pierwszy wiersz z wzorca.
+Sprawdziæ wszystkie pod k¹tem, czy nie wystêpuje drugi, trzeci, n-ty wiersz z wzorca
+odpowiednio szybko przerywaj¹c poszukiwanie, je¿eli wzorzec siê nie zgadza.
+
+
+DRUGIE MYŒLI:
+Mo¿e jakoœ uda siê zmodyfikowaæ odnajdywanie wzorca w jednym wierszu na wersjê 2D (Drzewa?)
